@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/MrinalCom)
 <h1 align="center">Hi 👋, I'm Pratibha Bharti</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 - 🔭 I’m currently working on **WebDevelopment**
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/ pratibha-bharti-722871249](www.linkedin.com/in/ pratibha-bharti-722871249)
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **web development**
 
 - 📫 How to reach me **www.linkedin.com/in/ pratibha-bharti-722871249**
 
